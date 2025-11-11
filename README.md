@@ -175,7 +175,7 @@ Implement CRUD operations using MongoDB as the document database.
 
 ---
 
-## 📋 Requirements  
+# 📋 Requirements  
 
 ### General Requirements:
 - Java 11 or higher
@@ -199,7 +199,7 @@ Implement CRUD operations using MongoDB as the document database.
 
 ---
 
-## 🛠️ Setup
+# 🛠️ Setup
 
 ###**Clone the repository**: 
    ```bash
@@ -238,11 +238,11 @@ mongod
 cd S04T02N03
 mvn clean install
 mvn spring-boot:run
-``
+```
 
 ---
 
-## 📚 Learning Resources
+# 📚 Learning Resources
 
 ### Spring Data & JPA
 - [Spring Data JPA Documentation](https://spring.io/projects/spring-data-jpa)
@@ -264,7 +264,7 @@ mvn spring-boot:run
 
 ---
 
-## 🔗 Contributions
+# 🔗 Contributions
 
 The project ignores:
 - `.idea/`
@@ -285,7 +285,7 @@ To contribute:
 
 ---
 
-## 📝 Important Notes
+# 📝 Important Notes
 
 - **Database Persistence**: H2 data is lost on restart (in-memory), MySQL and MongoDB persist data
 - **Port Conflicts**: Ensure database ports are available (MySQL: 3306, MongoDB: 27017)
