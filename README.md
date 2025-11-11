@@ -201,9 +201,9 @@ Implement CRUD operations using MongoDB as the document database.
 
 ## 🛠️ Setup
 
-###**Clone the repository**: https://github.com/polserrano8/4.2-ApiRest-with-SpringBoot
+###**Clone the repository**: 
    ```bash
-   git clone 
+   git clone https://github.com/polserrano8/4.2-ApiRest-with-SpringBoot
    ```
 
 ### Level 1 - H2 Setup:
